@@ -58,7 +58,7 @@
 </details>
 
 
-  <img align="left" alt="Baddesinger5's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Baddesinger5&show_icons=true&hide_border=true&theme=dark&icon_color=#ffffff" />
+  <img align="left" alt="Baddesinger5's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Baddesinger5&show_icons=true&hide_border=true&theme=dark&icon_color=ffffff" />
 
 
 [gmail]: baddesinger5@gmail.com
