@@ -1,11 +1,11 @@
 ### Hi there, I'm Vlad Yanukovich
 ### I`m Front-End Developer from Belarus
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I`m trying to be better in front-end development.
+- 🌱 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021/2022 Goals: find new job in front-end.
+- ⚡ I want to share my Spotify playlist (I don`t know why I`m doing this). [Click here!][spotify]
 
 ---
 
@@ -73,6 +73,4 @@ P.S.  *If you use addblocker, please, turn off this extension on the page.*
 [instagram]: https://www.instagram.com/vlad_drumstick/
 [linkedin]: https://www.linkedin.com/in/vlad-yanukovich-177a67199/
 [telegram]: https://t.me/vlad_is_love6
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[spotify]: https://open.spotify.com/playlist/3EiTNbX1cpSv0oAHusSTVa
