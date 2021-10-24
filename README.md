@@ -57,12 +57,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Baddesinger5's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Baddesinger5&show_icons=true&hide_border=true" />
+  <img align="left" alt="Baddesinger5's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Baddesinger5&show_icons=true&hide_border=true&theme=dark" />
 
-</details>
 
 [gmail]: baddesinger5@gmail.com
 [instagram]: https://www.instagram.com/vlad_drumstick/
