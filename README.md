@@ -23,7 +23,7 @@ P.S.  *If you use addblocker, please, turn off this extension on the page.*
 
 ### Technologies and Tools:
 
-[<img align="left" width="25px" alt="Visual Studio Code" width="26px" src="icons/git.png" />][]
+<img align="left" width="25px" alt="Visual Studio Code" width="26px" src="icons/git.png" />
 
 
 <br />
