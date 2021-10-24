@@ -1,16 +1,15 @@
 ### Hi there, I'm Vlad Yanukovich
 ### I`m Front-End Developer from Belarus
 
-- 🔭 I`m trying to be better in front-end development.
-- 🌱 
-- 👯 I’m looking to collaborate with other content creators
+- 🧠 I`m trying to be better in front-end development.
+- ❤️ Love beautiful design and all beautiful around the UI and not only.
+- 👯 I expanding my LinkedIn network. Add me there. Link below.
 - 🥅 2021/2022 Goals: find new job in front-end.
-- ⚡ I want to share my Spotify playlist (I don`t know why I`m doing this). [Click here!][spotify]
+- 🎵 I want to share my Spotify playlist (I dont know why I`m doing this). [Click here!][spotify]
 
 ---
 
 ### Contact with me and my Social Links:
-
 
 [<img align="left" alt="Telegram" width="25px" src="icons/telegram.png" />][telegram] 
 [<img align="left" style="fill: #FF0E0E" alt="Mail" width="25px" src="icons/gmail.png" />](mailto:baddesinger5@gmail.com)
@@ -20,7 +19,7 @@
 <br />
 <br />
 
-P.S.  *If you use addblocker, please, turn off this extension on the page.*
+> *If you use addblocker, please, turn off this extension on the page.*
 
 ---
 
