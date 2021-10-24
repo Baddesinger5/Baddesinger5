@@ -7,6 +7,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+---
+
 ### Contact with me and my Social Links:
 
 
@@ -20,10 +22,21 @@
 
 P.S.  *If you use addblocker, please, turn off this extension on the page.*
 
+---
 
 ### Technologies and Tools:
 
+<img align="left" width="25px" title="html" alt="html" width="26px" src="icons/html-5.png" />
+<img align="left" width="25px" title="css" alt="css" width="26px" src="icons/css-3.png" />
+<img align="left" width="25px" title="javascript" alt="javascript" width="26px" src="icons/javascript.png" />
+<img align="left" width="25px" title="react" alt="react" width="26px" src="icons/react.png" />
+<img align="left" width="25px" title="redux" alt="redux" width="26px" src="icons/redux.png" />
+<img align="left" width="25px" title="sass" alt="sass" width="26px" src="icons/sass.png" />
+<img align="left" width="25px" title="typescript" alt="typescript" width="26px" src="icons/typescript.png" />
+<img align="left" width="25px" title="photoshop" alt="photoshop" width="26px" src="icons/photoshop.png" />
+<img align="left" width="25px" title="figma" alt="figma" width="26px" src="icons/figma.png" />
 <img align="left" width="25px" title="git" alt="git" width="26px" src="icons/git.png" />
+<img align="left" width="25px" title="github" alt="github" width="26px" src="icons/github.png" />
 
 
 <br />
