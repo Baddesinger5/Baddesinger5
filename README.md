@@ -15,6 +15,7 @@
 [<img align="left" style="fill: #1F51E0" alt="LinkedIn" width="25px" src="icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="icons/instagram.png" />][instagram]
 
+<br />
 > If you use addblocker, please, turn off this extension on the page.
 <br />
 
