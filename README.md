@@ -10,7 +10,7 @@
 ### Contact with me and my Social Links:
 
 
-[<img align="left" alt="Telegram" width="22px" style="fill: #0cdaf5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/telegram.svg" />][telegram] 
+[<img align="left" alt="Telegram" width="22px" style="background: #0cdaf5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/telegram.svg" />][telegram] 
 [<img align="left" alt="Mail" width="22px" fill="#FF0E0E" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/gmail.svg" />](mailto:baddesinger5@gmail.com)
 [<img align="left" alt="LinkedIn" width="22px" fill="#1F51E0" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
