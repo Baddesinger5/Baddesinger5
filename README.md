@@ -10,9 +10,9 @@
 ### Contact with me and my Social Links:
 
 
-[<img align="left" fill="#0cdaf5" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/telegram.svg" />][telegram] 
-[<img align="left" fill="#FF0E0E" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/gmail.svg" />](mailto:baddesinger5@gmail.com)
-[<img align="left" fill="#1F51E0" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="fill: #0cdaf5" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/telegram.svg" />][telegram] 
+[<img align="left" style="fill: #FF0E0E" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/gmail.svg" />](mailto:baddesinger5@gmail.com)
+[<img align="left" style="fill: #1F51E0" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
