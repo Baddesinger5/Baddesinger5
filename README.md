@@ -31,17 +31,31 @@
 <img align="left" width="25px" title="react" alt="react" width="26px" src="icons/react.png" />
 <img align="left" width="25px" title="redux" alt="redux" width="26px" src="icons/redux.png" />
 <img align="left" width="25px" title="sass" alt="sass" width="26px" src="icons/sass.png" />
+<img align="left" width="25px" title="bootstrap" alt="bootstrap" width="26px" src="icons/bootstrap.png" />
 <img align="left" width="25px" title="typescript" alt="typescript" width="26px" src="icons/typescript.png" />
 <img align="left" width="25px" title="photoshop" alt="photoshop" width="26px" src="icons/photoshop.png" />
 <img align="left" width="25px" title="figma" alt="figma" width="26px" src="icons/figma.png" />
 <img align="left" width="25px" title="git" alt="git" width="26px" src="icons/git.png" />
 <img align="left" width="25px" title="github" alt="github" width="26px" src="icons/github.png" />
+<img align="left" width="25px" title="firebase" alt="firebase" width="26px" src="icons/firebase.png" />
 
 
 <br />
 <br />
 
 ---
+
+### I want to learn in the future:
+<img align="left" width="25px" title="graphql" alt="graphql" width="26px" src="icons/graphql.png" />
+<img align="left" width="25px" title="node js" alt="node js" width="26px" src="icons/node-js.png" />
+<img align="left" width="25px" title="tailwind" alt="tailwind" width="26px" src="icons/tailwind.png" />
+
+<br />
+<br />
+
+---
+
+
 ### My Github Stats:
 
 <img align="left" alt="Baddesinger5's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Baddesinger5&show_icons=true&hide_border=true&theme=dark&icon_color=ffffff" />
