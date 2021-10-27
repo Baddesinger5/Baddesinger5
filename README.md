@@ -48,7 +48,7 @@
 ### I want to learn in the future:
 <img align="left" width="25px" title="graphql" alt="graphql" width="26px" src="icons/graphql.png" />
 <img align="left" width="25px" title="node js" alt="node js" width="26px" src="icons/node-js.png" />
-<img align="left" width="25px" title="tailwind" alt="tailwind" width="26px" src="icons/tailwind.png" />
+<img align="left" width="25px" title="tailwind" alt="tailwind" width="26px" src="icons/tailwind.svg" />
 
 <br />
 <br />
