@@ -19,7 +19,7 @@
 <br />
 <br />
 
-> *If you use addblocker, please, turn off this extension on the page.*
+> *If you use adblock, please, turn off this extension on the page.*
 
 ---
 
