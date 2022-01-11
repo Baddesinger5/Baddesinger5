@@ -4,7 +4,7 @@
 - 🧠 I`m trying to be better in front-end development.
 - ❤️ Love beautiful design and all beautiful around the UI and not only.
 - 👯 I expanding my LinkedIn network. Add me there. Link below.
-- 🥅 2021/2022 Goals: find new job in front-end.
+- 🥅 2022 Goals: find new job in front-end.
 - 🎵 I want to share my Spotify playlist (I dont know why I`m doing this). [Click here!][spotify]
 
 ---
