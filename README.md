@@ -37,6 +37,8 @@
 <img align="left" width="25px" title="git" alt="git" width="26px" src="icons/git.png" />
 <img align="left" width="25px" title="github" alt="github" width="26px" src="icons/github.png" />
 <img align="left" width="25px" title="firebase" alt="firebase" width="26px" src="icons/firebase.png" />
+<img align="left" width="25px" title="graphql" alt="graphql" width="26px" src="icons/graphql.png" />
+<img align="left" width="25px" title="gatsby" alt="gatsby" width="26px" src="icons/gatsby.png" />
 
 
 <br />
@@ -44,10 +46,8 @@
 
 ---
 
-### I want to learn in the future:
-<img align="left" width="25px" title="graphql" alt="graphql" width="26px" src="icons/graphql.png" />
+### Tools and technologies to learn:
 <img align="left" width="25px" title="nestjs" alt="nestjs" width="26px" src="icons/nestjs.png" />
-<img align="left" width="25px" title="gatsby" alt="gatsby" width="26px" src="icons/gatsby.png" />
 <img align="left" width="25px" title="node js" alt="node js" width="26px" src="icons/node-js.png" />
 <img align="left" width="25px" height="25px" title="tailwind" alt="tailwind" width="26px" src="icons/tailwind.svg" />
 <img align="left" width="25px" title="webpack" alt="webpack" width="26px" src="icons/webpack.png" />
