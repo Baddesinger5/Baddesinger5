@@ -24,7 +24,7 @@
 
 ### Technologies and Tools:
 
-<img align="left" width="25px" title="html" alt="html" width="26px" src="icons/html-5.png" />
+<img align="left" width="25px" title="html " alt="html" width="26px" src="icons/html-5.png" />
 <img align="left" width="25px" title="css" alt="css" width="26px" src="icons/css-3.png" />
 <img align="left" width="25px" title="javascript" alt="javascript" width="26px" src="icons/javascript.png" />
 <img align="left" width="25px" title="react" alt="react" width="26px" src="icons/react.png" />
